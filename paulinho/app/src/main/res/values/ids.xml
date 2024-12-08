@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvTitulo" type="id" />
+    <item name="etRa" type="id" />
+    <item name="etNome" type="id" />
+    <item name="spnDisciplina" type="id" />
+    <item name="etNota" type="id" />
+    <item name="spnBimestre" type="id" />
+    <item name="btnAdicionar" type="id" />
+    <item name="btnVerNotas" type="id" />
+    <item name="btnVerMedias" type="id" />
+    <item name="spnAlunos" type="id" />
+    <item name="tblNotas" type="id" />
+    <item name="spinner_disciplinas" type="id" />
+    <item name="lv_alunos" type="id" />
+</resources>
